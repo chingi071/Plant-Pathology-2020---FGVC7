@@ -8,10 +8,12 @@ Data Augmentation uses RandomHorizontalFlip, RandomSizedCrop, RandomRotation.
 
 ## Model design
 I used some pre-train models, such as efficientnet-b0, efficientnet-b3, efficientnet-b6, inception_v3, resnet101.
+
 In addition, I set 5 k-fold to help increase accuracy.
 
 -Learning rate setting:
-<img width="500" height="450" src="https://github.com/chingi071/Plant-Pathology-2020---FGVC7/blob/master/pix/lr.jpg"/></div>
+
+<img width="300" height="200" src="https://github.com/chingi071/Plant-Pathology-2020---FGVC7/blob/master/pix/lr.jpg"/></div>
 
 
 -test time augmentation (TTA):
