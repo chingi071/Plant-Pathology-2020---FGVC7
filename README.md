@@ -13,7 +13,7 @@ In addition, I set 5 k-fold to help increase accuracy.
 
 -Learning rate setting:
 
-![image] (https://github.com/chingi071/Plant-Pathology-2020---FGVC7/blob/master/pix/lr.jpg)
+![image](https://github.com/chingi071/Plant-Pathology-2020---FGVC7/blob/master/pix/lr.jpg)
 
 
 
