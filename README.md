@@ -21,7 +21,9 @@ In addition, I set 5 k-fold to help increase accuracy.
 In order to improve the accuracy of the prediction results, I use 8 TTA.
 
 -Parameters:
+
 Image size: 256, 512
+
 Batch size: 16, 32
 
 ## Chart of validate result
