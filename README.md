@@ -27,12 +27,12 @@ Batch size: 16, 32
 ## Chart of validate result
 -Confusion Matrix
 
-<img width="600" height="550" src="https://github.com/chingi071/Plant-Pathology-2020---FGVC7/blob/master/pix/Confusion_Matrix.jpg"/></div>
+![image](https://github.com/chingi071/Plant-Pathology-2020---FGVC7/blob/master/pix/Confusion_Matrix.jpg)
 
 -Training & Validation Accuracy
 
-<img width="600" height="550" src="https://github.com/chingi071/Plant-Pathology-2020---FGVC7/blob/master/pix/Accuracy.jpg"/></div>
+![image](https://github.com/chingi071/Plant-Pathology-2020---FGVC7/blob/master/pix/Accuracy.jpg)
 
 -Training & Validation Loss
 
-<img width="600" height="550" src="https://github.com/chingi071/Plant-Pathology-2020---FGVC7/blob/master/pix/Loss.jpg"/></div>
+![image](https://github.com/chingi071/Plant-Pathology-2020---FGVC7/blob/master/pix/Loss.jpg)
