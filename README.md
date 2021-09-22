@@ -7,7 +7,7 @@ framework: pytorch
 Data Augmentation uses RandomHorizontalFlip, RandomSizedCrop, RandomRotation.
 
 ## Model design
-I used some pre-train models, such as efficientnet-b0, efficientnet-b3, efficientnet-b6, inception_v3, resnet101.
+I used some pre-trained models, such as efficientnet-b0, efficientnet-b3, efficientnet-b6, inception_v3, resnet101.
 
 In addition, I set 5 k-fold to help increase accuracy.
 
